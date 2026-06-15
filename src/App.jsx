@@ -120,22 +120,18 @@ export default function Portfolio() {
           </p>
 
           <h3 className="text-3xl font-semibold tracking-tight">
-            Desenvolvendo projetos backend e estudando arquitetura de sistemas,
-            com foco em segurança, desempenho e boas práticas.
+            Me chamo Miguel Modesto, desenvolvedor backend, e iniciei meus estudos em programação em 2022, 
+            quando dei meus primeiros passos utilizando o Termux, um emulador de terminal para Android, 
+            antes mesmo de ter acesso a um computador.
           </h3>
         </div>
 
         <div className="space-y-5 text-zinc-400 leading-relaxed">
-          <p>
-            Projetos pessoais voltados para backend, arquitetura de sistemas e
-            aplicações modernas como forma de aprimorar conhecimentos e
-            experiência prática.
-          </p>
-
-          <p>
-            Atualmente estudando backend, infraestrutura e ferramentas voltadas
-            para desenvolvimento e deploy de aplicações.
-          </p>
+          <h3 className="text-2xl font-semibold tracking-tight">
+            Desde então, mantenho uma rotina constante de estudos e desenvolvimento de projetos para aprimorar minhas habilidades.
+             Atualmente, busco me qualificar cada vez mais para construir sistemas seguros, escaláveis e performáticos, 
+             aprofundando meus conhecimentos em backend e arquitetura de software.
+          </h3>
         </div>
       </motion.section>
 
